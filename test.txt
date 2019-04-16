@@ -1,2 +1,3 @@
-Test of push
-Test of push -f
+Test1
+Test2
+Test3
