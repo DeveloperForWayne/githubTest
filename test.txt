@@ -1,1 +1,2 @@
+Test of push
 Test of push -f
